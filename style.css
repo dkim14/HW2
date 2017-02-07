@@ -1,0 +1,66 @@
+body {
+	background-color: #E8E8C3;
+	font-family: Veranda, Geneva, Arial;
+	font-size: 13pt;
+	}
+
+.resumecenter {
+	
+	margin: 0 auto;
+	border: 2px solid black;
+	width: 75%;
+	background-color: #C3E8D4;
+	padding: 20px;
+		}
+	
+.lefttext	{text-align: left;}
+
+
+
+.First
+{
+	text-align: center;
+	font-size: 12pt;
+}
+
+
+
+	.Pic1{
+	Float:left;
+	border:3px solid black;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:5px;
+	padding-bottom:5px;
+	background-color:gray;
+	}	
+	
+	
+	.Pic2{
+	Float:left;
+	border: 3px solid black;
+	padding-top:10px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:5px;
+	background-color:gray;
+		}
+		
+		
+		
+	.Pic3{
+	Float:left;
+	border: 3px solid black;
+	padding-top:10px;
+	padding-left:5px;
+	padding-right:10px;
+	padding-bottom:5px;
+	background-color:gray;
+	margin-right: 40px;
+	}
+
+
+.
+		
+
+		
